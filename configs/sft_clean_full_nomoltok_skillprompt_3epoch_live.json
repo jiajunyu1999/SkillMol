@@ -1,0 +1,23 @@
+{
+  "use_lora": true,
+  "register_domain_vocab": true,
+  "masked_ce": false,
+  "codebook_size": 256,
+  "num_codebooks": 8,
+  "mol_token_format": "shared",
+  "max_atom_map": 256,
+  "max_fg_id": 64,
+  "learning_rate": 0.0002,
+  "num_train_epochs": 3,
+  "max_steps": -1,
+  "max_length": 4096,
+  "batch_size": 128,
+  "micro_batch_size": 1,
+  "weight_decay": 0.0,
+  "logging_steps": 10,
+  "eval_steps": 999999,
+  "save_steps": 100,
+  "save_total_limit": 3,
+  "seed": 42,
+  "gradient_checkpointing": false
+}
