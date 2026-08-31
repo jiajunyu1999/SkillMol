@@ -1,5 +1,9 @@
 # SkillMol
 
+**SkillMol: Skill-Conditioned Action Editing for Molecular Optimization**
+
+EMNLP 2026 Findings.
+
 Clean code release for SkillMol.
 
 This repository only keeps the code, the skill prompt, and the test set needed to run molecular editing evaluation. It does not include model weights, checkpoints, training outputs, paper files, result tables, or large generated data.
