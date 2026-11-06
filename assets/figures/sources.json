@@ -1,0 +1,62 @@
+{
+  "paper": "https://aclanthology.org/2026.findings-emnlp.920/",
+  "source_pdf": "2026.findings-emnlp.920.pdf",
+  "render_scale": 3,
+  "figures": [
+    {
+      "file": "framework.png",
+      "figure": 2,
+      "pdf_page": 3,
+      "crop_points": [
+        68,
+        65,
+        529,
+        300
+      ]
+    },
+    {
+      "file": "property-shifts.png",
+      "figure": 4,
+      "pdf_page": 7,
+      "crop_points": [
+        68,
+        65,
+        529,
+        150
+      ]
+    },
+    {
+      "file": "multi-property.png",
+      "figure": 5,
+      "pdf_page": 7,
+      "crop_points": [
+        68,
+        191,
+        529,
+        272
+      ]
+    },
+    {
+      "file": "skill-alignment.png",
+      "figure": 6,
+      "pdf_page": 7,
+      "crop_points": [
+        68,
+        327,
+        294,
+        525
+      ]
+    },
+    {
+      "file": "case-studies.png",
+      "figure": 8,
+      "pdf_page": 9,
+      "crop_points": [
+        68,
+        65,
+        529,
+        441
+      ]
+    }
+  ]
+}
