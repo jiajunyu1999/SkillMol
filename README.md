@@ -12,7 +12,7 @@
 
 Jiajun Yu, Kun Li, Zhihao Wu, Weifan Mao, Yizhen Zheng, and Haishuai Wang
 
-[Highlights](#highlights) · [Method](#method) · [Results](#results) · [Quick start](#quick-start) · [Citation](#citation)
+[Highlights](#highlights) · [Method](#method) · [Results](#results) · [Cases](#case-studies) · [Quick start](#quick-start) · [Citation](#citation)
 
 </div>
 
@@ -52,7 +52,7 @@ Results are from the paper's MoleculeSTM benchmark evaluation. Loose hits requir
 *Figure 4.* Before-and-after property distributions show how the learned edits move molecules toward the requested objectives.
 
 <details>
-<summary><b>See multi-property optimization, skill alignment, and editing trajectories</b></summary>
+<summary><b>See multi-property optimization and skill alignment</b></summary>
 
 ![Two-property optimization scatter plots](assets/figures/multi-property.png)
 
@@ -62,11 +62,17 @@ Results are from the paper's MoleculeSTM benchmark evaluation. Loose hits requir
 
 *Figure 6.* Alignment between task skills and the model's optimization behavior.
 
-![SkillMol molecular editing trajectories](assets/figures/case-studies.png)
-
-*Figure 8.* Source molecules, predicted actions, and the resulting molecular transformations.
-
 </details>
+
+## Case studies
+
+![SkillMol skill-guided molecular editing examples](assets/figures/case-studies.png)
+
+*Figure 8 from the paper.* Source and edited molecules make the skill-guided transformations visible, with property values reported beneath the structures.
+
+- **Single-property goals:** examples include solubility, drug-likeness, polar surface area, and hydrogen-bond objectives.
+- **Joint objectives:** paired property values illustrate edits that must satisfy more than one requested direction.
+- **Chemical interpretation:** highlighted functional-group changes connect the task skill to the resulting molecular structure.
 
 ## Quick start
 
