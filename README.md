@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="SkillMol — EMNLP 2026 FINDINGS · ORAL">
-
 # SkillMol
 
 ### Skill-Conditioned Action Editing for Molecular Optimization
 
 **Turn reusable chemical knowledge into executable molecular edits.**
 
-[![Venue](https://img.shields.io/badge/EMNLP%202026%20Findings-Oral-0f766e?style=flat-square)](https://aclanthology.org/2026.findings-emnlp.920/)
+[![Venue](https://img.shields.io/badge/EMNLP%202026-Findings-0f766e?style=flat-square)](https://aclanthology.org/2026.findings-emnlp.920/)
 [![Paper](https://img.shields.io/badge/Read_the-Paper-111827?style=flat-square)](https://aclanthology.org/2026.findings-emnlp.920/)
 [![Python](https://img.shields.io/badge/Python-Research_Code-3776AB?style=flat-square&logo=python&logoColor=white)](#quick-start)
 
